@@ -24,29 +24,6 @@
 
 ---
 
-<div align="center">
-
-<table border="0">
-  <tr>
-    <td align="center">
-      <img src="./images/He_s_just_a_little_guy_.jpg" width="155px" style="border-radius:16px;" /><br/>
-      <sub><b>😄 just a little guy</b></sub>
-    </td>
-    <td align="center">
-      <img src="./images/gifwooper.gif" width="170px" /><br/>
-      <sub><b>🌊 vibing 24/7</b></sub>
-    </td>
-    <td align="center">
-      <img src="./images/wooper1.jpg" width="155px" style="border-radius:16px;" /><br/>
-      <sub><b>🛹 on the grind</b></sub>
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
 ## 🌊 Sobre Mim
 
 <img src="./images/wooper2.jpg" align="right" width="145px" />
