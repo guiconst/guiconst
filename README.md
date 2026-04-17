@@ -29,11 +29,11 @@
 
 ```python
 guilherme = {
-    "escola"     : "SENAI ",
+    "escola"     : "SENAI",
     "foco"       : "Desenvolvimento de Software 💻",
-    "missão"     : "Aprender, Criar e Evoluir ",
+    "missão"     : "Aprender, Criar e Evoluir",
     "hobbies"    : ["Programar", "Pokémon", "Jogos"],
-    "status"     : "Sempre codando... "
+    "status"     : "Sempre codando..."
 }
 ```
 
@@ -102,5 +102,4 @@ guilherme = {
 <img src="./images/gifwooper.gif" width="80px" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=100&section=footer" width="100%"/>
-
 </div>
