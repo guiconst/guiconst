@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 <img src="./images/woopergif2.gif" width="110px" align="left" />
 <img src="./images/gifwooper.gif" width="110px" align="right" />
@@ -23,19 +23,17 @@
 </div>
 
 ---
-
 ## 🌊 Sobre Mim
 
 <img src="./images/wooper2.jpg" align="right" width="145px" />
 
 ```python
 guilherme = {
-    "escola"     : "SENAI 🏫",
+    "escola"     : "SENAI ",
     "foco"       : "Desenvolvimento de Software 💻",
-    "mascote"    : "Wooper 💙 (obviously)",
-    "missão"     : "Aprender, Criar e Evoluir 🚀",
+    "missão"     : "Aprender, Criar e Evoluir ",
     "hobbies"    : ["Programar", "Pokémon", "Jogos"],
-    "status"     : "Sempre codando... ☕"
+    "status"     : "Sempre codando... "
 }
 ```
 
@@ -43,7 +41,7 @@ guilherme = {
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## Tecnologias & Ferramentas
 
 <div align="center">
 
@@ -62,7 +60,7 @@ guilherme = {
 
 ---
 
-## 📊 Estatísticas do GitHub
+## Estatísticas
 
 <div align="center">
 
@@ -77,7 +75,7 @@ guilherme = {
 
 ---
 
-## 📈 Gráfico de Atividade
+## Gráfico de Atividade
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=guiconst&area=true&hide_border=true&hide_title=true&theme=tokyo-night&bg_color=0D1B2A&color=E0F7FA&line=4DD0E1&point=00BCD4&area_color=1976D2&radius=10" />
@@ -85,44 +83,9 @@ guilherme = {
 
 ---
 
-## 🏆 Troféus
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=guiconst&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" />
-</div>
-
 ---
 
-<div align="center">
-
-### 💬 O Wooper me representa em toda situação
-
-<table border="0">
-  <tr>
-    <td align="center">
-      <img src="./images/wooper3.jpg" width="130px" style="border-radius:12px" /><br/>
-      <sub>🤔 quando o bug<br/>não faz sentido</sub>
-    </td>
-    <td align="center">
-      <img src="./images/woopergif2.gif" width="140px" /><br/>
-      <sub>🎉 quando o código<br/>finalmente compila</sub>
-    </td>
-    <td align="center">
-      <img src="./images/wooper2.jpg" width="130px" style="border-radius:12px" /><br/>
-      <sub>😮 eu lendo<br/>a documentação</sub>
-    </td>
-    <td align="center">
-      <img src="./images/He_s_just_a_little_guy_.jpg" width="130px" style="border-radius:12px" /><br/>
-      <sub>😴 eu às 3am<br/>debugando</sub>
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
-## 🌐 Onde Me Encontrar
+## Redes Sociais
 
 <div align="center">
 
@@ -137,8 +100,6 @@ guilherme = {
 <div align="center">
 
 <img src="./images/gifwooper.gif" width="80px" />
-
-### *"Todo especialista já foi um iniciante — assim como todo Wooper já foi só um little guy"* 💙
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=100&section=footer" width="100%"/>
 
