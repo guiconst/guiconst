@@ -23,7 +23,7 @@
 </div>
 
 ---
-## 🌊 Sobre Mim
+## Sobre Mim
 
 <img src="./images/wooper2.jpg" align="right" width="145px" />
 
